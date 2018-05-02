@@ -1,0 +1,8 @@
+C:\Users\Get Academy\source\repos\Startlist\Startlist\bin\Debug\startlist.csv
+C:\Users\Get Academy\source\repos\Startlist\Startlist\bin\Debug\Startlist.exe.config
+C:\Users\Get Academy\source\repos\Startlist\Startlist\bin\Debug\Startlist.exe
+C:\Users\Get Academy\source\repos\Startlist\Startlist\bin\Debug\Startlist.pdb
+C:\Users\Get Academy\source\repos\Startlist\Startlist\obj\Debug\Startlist.csprojResolveAssemblyReference.cache
+C:\Users\Get Academy\source\repos\Startlist\Startlist\obj\Debug\Startlist.csproj.CoreCompileInputs.cache
+C:\Users\Get Academy\source\repos\Startlist\Startlist\obj\Debug\Startlist.exe
+C:\Users\Get Academy\source\repos\Startlist\Startlist\obj\Debug\Startlist.pdb
